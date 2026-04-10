@@ -1,0 +1,21 @@
+SĀKUMS
+    PAŅEMT maizi
+    
+    JA maize_ir_jāgrauzdē IR PATIESS:
+        IELIKT maizi tosterī
+        GAIDĪT 2 minūtes
+        IZŅEMT maizi no tostera
+    CITĀDI:
+        ATSTĀT maizi svaigu
+    BEIGAS JA
+
+    UZSMĒRĒT sviestu
+
+    JA ledusskapī_ir_desa IR PATIESS:
+        UZLIKT desas šķēli
+    CITĀDI:
+        UZLIKT siera šķēli
+    BEIGAS JA
+
+    UZLIKT otru maizes šķēli
+BEIGAS
